@@ -8,6 +8,8 @@ Generate the NATO Phonetic Code for a given word.
 ### Requirements:
 [Python](https://docs.python.org/)
 
+[Pandas](https://pandas.pydata.org/)
+
 
 To Run:
 ```sh
