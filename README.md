@@ -1,22 +1,34 @@
 # NATO Phonetic Code Generator in Python
 
-Tejas Acharya
-[Twitter](https://twitter.com/achte_te)
+### [twitter](https://twitter.com/achte_te)
+
+## Description
 
 Generate the NATO Phonetic Code for a given word.
 
 ### Requirements:
-[Python](https://docs.python.org/)
+[Python](https://www.python.org/)
+
+```sh
+$ python3 --version
+Python 3.9.12
+```
 
 [Pandas](https://pandas.pydata.org/)
 
+## Install
 
-To Run:
 ```sh
-git clone git@github.com:achte-2022/NATO-Alphabet.git
-cd NATO-Alphabet
-python3 main.py
+$ git clone git@github.com:achte-2022/NATO-Alphabet.git
+```
+
+## Run:
+
+```sh
+$ cd NATO-Alphabet
+$ python3 main.py
 ```
 
 ### Game Screen
+
 ![Game Screen](images/normal_game.png)
