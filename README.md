@@ -32,3 +32,8 @@ $ python3 main.py
 ### Game Screen
 
 ![Game Screen](images/normal_game.png)
+
+
+### Error Screen
+
+![Error Screen](images/error.png)
