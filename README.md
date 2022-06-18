@@ -4,7 +4,7 @@
 
 ## Description
 
-Generate the NATO Phonetic Code for a given word.
+Generate the NATO Phonetic Code for a given word. The word must not contain a number.
 
 ### Requirements:
 [Python](https://www.python.org/)
