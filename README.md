@@ -28,6 +28,7 @@ $ git clone git@github.com:achte-2022/NATO-Alphabet.git
 $ cd NATO-Alphabet
 $ python3 main.py
 ```
+## Application Screen
 
 ### Game Screen
 
